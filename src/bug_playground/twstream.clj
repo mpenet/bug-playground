@@ -3,7 +3,7 @@
        [aleph http formats]))
 
 
-(def works "follow=14942630&track=APPLEPIENOGOOD,bieber")
+(def works "follow=14942630&track=bieber")
 (def breaks "follow=14942630&track=APPLEPIENOGOOD")
 
 (defn -main
